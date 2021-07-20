@@ -10,7 +10,7 @@ Voici le fameux script du pause menu qui rend votre menu ECHAP plus beau avec vo
 ## Installation
 * Télécharger La Ressources ;
 * Mettez la dans votre dossier ressources ;
-* Ajouter ```ensure 3dme``` dans votre server.cfg.
+* Ajouter ```ensure pausemenu_sim.exe``` dans votre server.cfg.
 
 ## Personnalisation 
 * Aller dans le nom_serveur.lua ;
